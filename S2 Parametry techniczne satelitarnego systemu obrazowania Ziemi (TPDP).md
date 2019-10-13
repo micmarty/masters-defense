@@ -44,3 +44,9 @@ Spisane zakresy spektralne i długości fal: https://zasoby1.open.agh.edu.pl/dyd
 | Sensor 2          | Multi Spectral Instrument                                                            |
 | Rozdzielczość     | 10/20 m                                                                              |
 | Liczba zakresów   | 4                                                                                    |
+
+### Parametry techniczne sensora
+- liczba i gęstość elementów CCD
+- ogniskowa kamery
+- kąt bryłowy obiektywu (zakrzywienie)
+- zakresy spektralne
