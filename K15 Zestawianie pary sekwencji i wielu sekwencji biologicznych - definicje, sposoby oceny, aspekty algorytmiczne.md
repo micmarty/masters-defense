@@ -27,7 +27,7 @@ Pytanie : Które jest bardziej prawdopodobne?
 # Rodzaje operacji
 - Znak nie został zmieniony
 - Zamiana znaku (substytucja) np. A -> C albo T -> G
-- Indel (Insertion or Deletion), co oznacza wstawienie znaku zamiast kreski (insercja) albo wstawienie kreski zamiast znaku (delecja) (A -> kreske albo kreska -> G)
+- Indel (Insertion or Deletion), co oznacza wstawienie znaku zamiast kreski (insercja) albo wstawienie kreski zamiast znaku (delecja) (A -> kreske albo kreska -> G) UWAGA, to nie oznacza, że kasujemy literkę A i zamiast nią wstawiamy kreskę, to oznacza, że PRZESUWAMY nasz ciąg dalej a na miejsce literki A wsadzamy kreske! (CHYBA :D)
 
 Każdej operacji nadajemy różne wagi. Przykładowo, 
 - Brak zmiany -> 0
