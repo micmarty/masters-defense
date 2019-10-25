@@ -17,23 +17,27 @@ relacji pomiędzy gatunkami.
 
 
 # Metody szacowania filogenezy
-- Metoda największej parsymonii
+- *Metoda największej parsymonii*
+
 Najbardziej prawdopodobne jest takie zdarzenie ewolucyjne, które wymaga najmniejszej liczby zmian.
 Drzewo NIE jest obliczane, sprawdzane i porównywane są wszystkie (lub najbardziej obiecujące) drzewa. Szukamy wśród nich nich
 takiego, które wyjaśniało by zróżnicowanie badanych sekwencji jak najmniejszą liczbą mutacji - *najkrótsze drzewo*
 
-- Metody odległościowe (np. łączenie sąsiadów)
+- *Metody odległościowe* (np. łączenie sąsiadów)
+
 Obliczane jest drzewo na podstawie macierzy odległości pomiędzy wszystkimi sekwencjami w analizie.
 
 1. Obliczanie macierzy odległości
 
 2. Obliczne jest drzewo na podstawie tej macierzy (np. metodą Neighbour-Joining)
 
-- Metoda największej wiarygodności
+- *Metoda największej wiarygodności*
+
 Drzewo nie jest obliczane. Sprawdzamy wszystkie drzewa (lub najbardziej obiecujące) szukając takiego, dla którego 
 najbardziej prawdopodobne jest uzyskanie obserwowanego rozkładu cech (nukleotydów lub aminokwasów w sekwencjach) przy założeniu modelu sybstytucji (parametry są określone) WTF.
 
-- Analiza Bayesowska
+- *Analiza Bayesowska*
+
 Drzewo nie jest obliczane. Poszukujemy WIELU a nie jednego drzewa, które są najbardziej obiecujące, czyli mające dobry rozkład obserwowanych cech przy założonym modelu 
 substytucji ( parametry NIE SĄ określone).
 Finalnie, łączymy jakoś te wybrane drzewa w jedno.
