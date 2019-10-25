@@ -43,7 +43,7 @@ Z tego wynika, że tańsza (bardziej prawdopodobna) jest ewolucja pierwsza.
 
 -------------------------
 
-* Co można policzyć:
+# Co można policzyć:
 - Odległość edycyjną - CHYBA to co policzyliśmy wyżej
 - Podobieństwo - CHYBA jeżeli znak się nie zmienia to dajemy +1 jeżeli się zmienia to -1
 - Dopasowania
