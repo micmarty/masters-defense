@@ -13,13 +13,13 @@ Zastanawiamy się teraz, w jaki sposób one ewoluowały (lub zmutowały, nie wie
 A)
 
 -AGAG-TCAATCCATAG
-CAGAGGTCCATC-ATG-
 
-lub
+CAGAGGTCCATC-ATG-
 
 B)
 
 ------AGAGTCAATCCATAG
+
 CAGAGG----TCCATCATG--
 
 Pytanie : Które jest bardziej prawdopodobne?
