@@ -10,8 +10,6 @@ Po co nam te drzewa?
 --------------
 
 - O filogenezie wnioskujemy w oparciu o cechy homologiczne. Cechę występującą u dwóch gatunków uznaje się za homologiczną, jeżeli występowała u ich wspólnego przodka.
-- Przy rekonstrukcji drzewa trzeba znać różnicę między pokrewieństwem a podobieństwem.
-  - Podobieństwa nieznaczące o wspólnym pochodzeniu to homoplazje, utrudniają one odtworzenie rzeczywistej filogenezy organizmów.
 - Drzewo czyta się od korzenia, przez węzły wewnętrznę (wspólni przodkowie), aż do węzłów zewnętrznych (liście, to gatunki żyjące dzisiaj). 
 - Istnieją również drzewa nieukorzenione, one nie informują nas o kierunku ewolucji. Z nich czerpiemy tylko informację o wzajemnych bliskościach
 relacji pomiędzy gatunkami.
