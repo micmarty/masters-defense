@@ -34,7 +34,7 @@ Obliczane jest drzewo na podstawie macierzy odległości pomiędzy wszystkimi se
 - *Metoda największej wiarygodności*
 
 Drzewo nie jest obliczane. Sprawdzamy wszystkie drzewa (lub najbardziej obiecujące) szukając takiego, dla którego 
-najbardziej prawdopodobne jest uzyskanie obserwowanego rozkładu cech (nukleotydów lub aminokwasów w sekwencjach) przy założeniu modelu sybstytucji (parametry są określone) WTF.
+najbardziej prawdopodobne jest uzyskanie obserwowanego rozkładu cech (nukleotydów lub aminokwasów w sekwencjach) przy założonym modelu sybstytucji (parametry są określone) WTF.
 
 - *Analiza Bayesowska*
 
