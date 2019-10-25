@@ -47,10 +47,8 @@ Z tego wynika, że tańsza (bardziej prawdopodobna) jest ewolucja pierwsza.
   - Odległość edycyjną - CHYBA to co policzyliśmy wyżej
   - Podobieństwo - CHYBA jeżeli znak się nie zmienia to dajemy +1 jeżeli się zmienia to -1
   - Dopasowania
-
-* Dopasowania
-  - globalne - stara się dopasować całość ciągu do drugiego ciągu
-  - lokalne - stara się dopasować część jednego ciągu do drugiego, tak aby osiągnąć najoptymalniejszą wartość
+    - globalne - stara się dopasować całość ciągu do drugiego ciągu
+    - lokalne - stara się dopasować część jednego ciągu do drugiego, tak aby osiągnąć najoptymalniejszą wartość
 
 ![image](https://www.researchgate.net/profile/Tomas_Flouri/publication/260376769/figure/fig2/AS:216362501840900@1428596248757/Global-local-and-semi-global-alignment-The-global-local-and-semi-global-alignments.png)
 
