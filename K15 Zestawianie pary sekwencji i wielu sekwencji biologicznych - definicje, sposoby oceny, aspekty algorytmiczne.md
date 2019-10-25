@@ -52,11 +52,11 @@ Z tego wynika, że tańsza (bardziej prawdopodobna) jest ewolucja pierwsza.
 
 ![image](https://www.researchgate.net/profile/Tomas_Flouri/publication/260376769/figure/fig2/AS:216362501840900@1428596248757/Global-local-and-semi-global-alignment-The-global-local-and-semi-global-alignments.png)
 
-* Wyżej, liczyliśmy tylko koszty gotowych dopasowań. Teraz zadajemy sobie pytanie, w jaki sposób samemu znaleźć od razu optymalne dopasowania.
+Wyżej, liczyliśmy tylko koszty gotowych dopasowań. Teraz zadajemy sobie pytanie, w jaki sposób samemu znaleźć od razu optymalne dopasowania.
 Służą do tego różnego rodzaju algorytmy, z tych które mieliśmy na wykładzie możemy wymienić: 
-- Smith-Waterman (dopasowanie lokalne)
-- Needleman-Wunsch (do liczenia dopasowania GLOBALNEGO) 
-- Hirschberg (też dopasowanie GLOBALNE) 
+  - Smith-Waterman (dopasowanie lokalne)
+  - Needleman-Wunsch (do liczenia dopasowania GLOBALNEGO) 
+  - Hirschberg (też dopasowanie GLOBALNE) 
 
 Jak kogoś interesuje jak działają to odsyłam do WIKI :D Tam są przykłady. 
 
