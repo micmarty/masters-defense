@@ -41,6 +41,21 @@ A = 16
 B = 44
 Z tego wynika, że tańsza (bardziej prawdopodobna) jest ewolucja pierwsza.
 
+* Ocenianie można też zrobić za pomocą macierzy:
+Zamiast tak jak wyżej, nadawać konkretnej operacji wagi, możemy przydzielać konkretne wagi KONKERTNYM zmianom znaku. Robi się wtedy taką macierz, 
+
+     A  G  C  T
+
+A   1  -1  -1  -1
+
+G  -1   1  -2  -3
+
+C  -1  -2   1  -1
+
+T  -1  -3  -1   4
+
+Czyli różne aminokwasy mają różne koszty zmian na inne aminokwasy
+
 -------------------------
 
 # Co można policzyć:
