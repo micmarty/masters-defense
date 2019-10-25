@@ -1,10 +1,7 @@
-# Zestawianie pary sekwencji i wielu sekwencji biologicznych - definicje, sposoby oceny,
-aspekty algorytmiczne. (Elementy bioinformatyki K. Giaro) 
+# Zestawianie pary sekwencji i wielu sekwencji biologicznych - definicje, sposoby oceny,aspekty algorytmiczne. (Elementy bioinformatyki K. Giaro) 
 
 Zestawianie par sekwencji rozumiem jako dopasowanie / porównywanie ze soba dwóch struktur (DNA / RNA / białka) w celu znalezienia regionów podobieństw.
 Można porównywać zarówno parę sekwencji jak i wiele sekwencji.
-
-![image](https://www.researchgate.net/profile/Tomas_Flouri/publication/260376769/figure/fig2/AS:216362501840900@1428596248757/Global-local-and-semi-global-alignment-The-global-local-and-semi-global-alignments.png)
 
 - Przykład:
 Mamy dwa ciągi DNA, o których wiemy, że mają wspólne pochodzenie:
@@ -12,11 +9,16 @@ Mamy dwa ciągi DNA, o których wiemy, że mają wspólne pochodzenie:
 2. CAGAGGTCCATCATG
 
 Zastanawiamy się teraz, w jaki sposób one ewoluowały (lub zmutowały, nie wiem która forma poprawna). Przykładowe dwie mozliwości:
+
 A)
+
 -AGAG-TCAATCCATAG
 CAGAGGTCCATC-ATG-
+
 lub
+
 B)
+
 ------AGAGTCAATCCATAG
 CAGAGG----TCCATCATG--
 
@@ -49,6 +51,8 @@ Z tego wynika, że tańsza (bardziej prawdopodobna) jest ewolucja pierwsza.
 * Dopasowania
 - globalne - stara się dopasować całość ciągu do drugiego ciągu
 - lokalne - stara się dopasować część jednego ciągu do drugiego, tak aby osiągnąć najoptymalniejszą wartość
+
+![image](https://www.researchgate.net/profile/Tomas_Flouri/publication/260376769/figure/fig2/AS:216362501840900@1428596248757/Global-local-and-semi-global-alignment-The-global-local-and-semi-global-alignments.png)
 
 * Wyżej, liczyliśmy tylko koszty gotowych dopasowań. Teraz zadajemy sobie pytanie, w jaki sposób samemu znaleźć od razu optymalne dopasowania.
 Służą do tego różnego rodzaju algorytmy, z tych które mieliśmy na wykładzie możemy wymienić: 
