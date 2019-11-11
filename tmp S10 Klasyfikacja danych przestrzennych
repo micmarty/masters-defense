@@ -1,0 +1,38 @@
+# S10 Klasyfikacja danych przestrzennych
+
+## Uczenie nadzorowane
+https://www.youtube.com/watch?v=y8J6ggsLSfw
+
+KNN - K Nearest Neighbours (najbliższych sąsiadów).
+
+k trzeba jakoś sprytnie odnaleźć żeby wyniki nie były niestabilne ale z drugiej strony nie pochłonęły całych zasobów.
+Można wybrać np. k= sqrt(n), gdzie n to liczba exampli. Niepatrzyste wartości pomogą uniknąć problemów  zdecyzjami gdy dwa punkty są jednakowo odległe
+
+
+Przypisywana jest klasa najczęściej występująca (majority voting) spośród K sąsiadów o najmniejszej odległości w przestrzeni parametrów (najbardziej podobnych)
+
+W zależności od datasetu warto dopasowywać funkcję liczącą odległość np. dystans Hamminga zamiast Euklidesowego
+Kiedy używać:
+- mały dateset (zmniejsza złożoność obliczeniową liczyć tylu dystansów)
+- olabelowany w większości
+- dane bez szumu
+
+### SVM
+maszyny wektorów nośnych
+oddziela linią punkty
++ RBF (Radial Basis Function)
+![image](https://user-images.githubusercontent.com/12485656/68612999-a046d180-0472-11ea-8b58-affa97b5faac.png)
+
+### Drzewa decyzyjne
+![image](https://user-images.githubusercontent.com/12485656/68613542-d5075880-0473-11ea-90f4-a74cfc407b7a.png)
+![image](https://user-images.githubusercontent.com/12485656/68613618-fcf6bc00-0473-11ea-8cc2-3790a032c4af.png)
+
+Mogą łatwo dopasowywać się do outlierów, co jest zaletą, ale bywa też wadą (overfitują)
+
+## Ensemble models
+- Bagging - dzieli się zbiór danych na losowe x części, osobno trenuje dla każdego po jednym tym samym modelu. Przy klasyfikacji wybiera się tę klasę która została zwrócona przez większość z x modeli
+- Random Forest
+- Extra Trees
+- Voting - głosowanie kilku modeli
+
+![image](https://user-images.githubusercontent.com/12485656/68614009-e0a74f00-0474-11ea-8596-59aa4e05c5e3.png)
