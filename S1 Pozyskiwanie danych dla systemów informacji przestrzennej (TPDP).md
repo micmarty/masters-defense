@@ -1,5 +1,8 @@
 # S1 Pozyskiwanie danych dla systemów informacji przestrzennej (TPDP)
 
+Służą do tego urządzenia peryferyjne (instrumenty geodezyjne, digitizery, skanery, autografy) oraz urządzenia do generowania opracowań tabelarycznych i kartograficznych (drukarki, plotery, naświetlarki).
+
+### Metody
 - Skanowanie - zamiana fizycznych, papierowych dokumentów na postać elektroniczną
 
 - Digitalizacja - transformacja, konwersja na prawdziwie cyfrowy format (np. zeskanowane tabele jako zdjęcie zamieniamy na format .docx)
@@ -15,6 +18,7 @@ Spróbójcie sami: https://www.vectorizer.io
 
 
 ### Źródła pozyskiwanych danych
+- Inne istniejące systemy (transfer danych)
 - Zdjęcia lotnicze
 - Zdjęcia satelitarne
 - LIDAR
