@@ -15,7 +15,7 @@ Zapamiętać: są 4 różne rozdzielczości: przestrzenna, czasowa, spektralna, 
 
 - Rozdzielczość czasowa (okres/czas rewizyty) - po jakim czasie ponownie odwiedzono ten sam teren (czas pomiędzy kolejnymi akwizycjami)
 
-- Rozdzielczość spektralna (zakres spektralny) - w ilu zakresach spektralnych rejestruje się dane np. promieniowanie widzialne, podczerwień bliska, średnia, termalna, promieniowanie mikrofalowe. Dobór zależy od warunków atmosfery (i powodowanych przez nią zakłóceń!). Im więcej zakresów tym wyższa rozdzielczość spektralna, tak samo gdy są one węższe (gęściej upakowane?)
+- Rozdzielczość spektralna (zakres spektralny) - w ilu i jak szerokich zakresach spektralnych rejestruje się dane np. promieniowanie widzialne, podczerwień bliska, średnia, termalna, promieniowanie mikrofalowe. Dobór zależy od warunków atmosfery (i powodowanych przez nią zakłóceń!). Im więcej zakresów tym wyższa rozdzielczość spektralna, tak samo gdy są one węższe (gęściej upakowane?)
 
 - Rozdzielczość kwantyzacji - precyzja reprezentacji wartości zarejestrowanego promieniowania dla 1 piksela, czyli ile bitów jest przeznaczonych np. 8, 11-bit. Czym większa, tym teoretycznie dokładniejsze pomiary. Analogicznie jak fp32, fp64
 
@@ -28,7 +28,7 @@ Rys. **IFOV vs FOV**
 
 Spisane zakresy spektralne i długości fal: https://zasoby1.open.agh.edu.pl/dydaktyka/inzynieria_srodowiska/c_technika_satelitarna/radary.html
 
-### Parametry satelity
+## Parametry satelity
 
 | Parametry         | Wartości                                                                             |
 |-------------------|--------------------------------------------------------------------------------------|
@@ -45,7 +45,7 @@ Spisane zakresy spektralne i długości fal: https://zasoby1.open.agh.edu.pl/dyd
 | **Rozdzielczość**     | 10/20 m                                                                              |
 | **Liczba zakresów**   | 4                                                                                    |
 
-### Parametry techniczne sensora
+## Parametry techniczne sensora
 - liczba i gęstość elementów CCD
 - ogniskowa kamery
 - kąt bryłowy obiektywu (zakrzywienie)
