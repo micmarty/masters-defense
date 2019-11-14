@@ -1,4 +1,4 @@
-źródło: TPDP-W\1. Wykêady dr Kulawiak\1_Wprowadzenie_do_SIP
+źródło: `TPDP-W\1. Wykêady dr Kulawiak\3_Przetwarzanie_danych`
 
 # Rodzaje operacji
 ## Topologiczne, na danych wektorowych:
