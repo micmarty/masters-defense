@@ -44,10 +44,15 @@ Pozwala **oszacować wartość zmiennej w punktach w których nie dokonano pomia
 - DENSITY (funkcja szacowania zagęszczenia)
 
 ### Modelowanie i symulacja
+Służą szacowaniu ryzyka (potencjalnych strat) np. powodzi, terenów zalewowych, potencjalne ogniska zanieczyszczen wody, dryfowanie plam ropy po oceanie.
 
+
+![image](https://user-images.githubusercontent.com/12485656/68889246-d4451f80-071c-11ea-8fa3-7b7f0cfa01e0.png)
+
+## Inne
 ### 1. Zapytania do bazy
-### 2. Algebra map
-### 3. Operatory
+### 2. Algebra map (operatory.md)
+### 3. Operatory (operatory.md)
 
 ## Reklasyfikacja
 Umożliwia dokonywanie zmian atrybutów obiektów znajdujących się na wybranej warstwie.
@@ -59,12 +64,7 @@ Na przykład:
 - ob
 
 
-## Wariogram
+**Wariogram**
 (wtf)
 Można za pomocą jego wyznaczać trend. Tworzy się go na podstawie wyników serii pomiarów dokonanych na danym obszarze.
 ![image](https://user-images.githubusercontent.com/12485656/66715890-d8ea8100-edc8-11e9-91ca-5bbee09533ff.png)
-
-## Metoda Delaunaya
-
-
-![image](https://user-images.githubusercontent.com/12485656/66714970-f2d29680-edbd-11e9-8ccd-39408b9e1b73.png)
