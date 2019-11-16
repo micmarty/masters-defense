@@ -30,12 +30,14 @@ Wstrzymanie (Hold) - urz. przestaje komunikować się na pewien czas (np. 500ms)
 Parkowanie (Parking) - urządzenie tymaczasowo opuszcza sieć (max 40s). Adres zostaje zwolniony i może zostać użyty przez inne urz. Takie zaparkowane dostają adres z osobnej specjalnej przeznaczonej do tego puli - wtedy master może przywrócić je do sieci.
 
 Przepustowość:
+
 | wersja        | teoretycznie           | praktycznie  |
 | ------------- |:-------------:| -----:|
 | 1.1/1.2      | 1 Mbps | 0.7 Mbps |
 | 2.0/2.1      | 3 Mbps (EDR)      |   2.1 Mbps |
 | 3.0 | 24 Mbps (High Speed, 802.11)      |    |
 | 4.0/1/2 |       |    |
+| 5.0/1 |       |    |
 | Low Energy | 1 Mbps | 0.26 Kbps |
 
 Implementacja EDR i High Speed są częścią standardu ale sa opcjonalne
@@ -48,7 +50,20 @@ Też wykorzystuje pasmo 2.5 GHz, rożni się jednak szerokością kanału i type
 
 Bluetooth i Wi-Fi dzielą to samo pasmo, dlatego żeby sie nie zagłuszały to Bluetooth korzusta z **metody rozpraszania widma** (Frequency Hopping Spread Spectrum). Kanały zmieniane są ok. 800 razy w ciągu sekundy
 
-## NFC
+## iBeacons
+Applowe, oparte na Bluetooth LE
+
+## NFC (Near Field Communication)
+
+Standard komunikacji krótkiego zasięgu. Opiera się na technologii RFID - pasywne znaczniki elektroniczne aktywowane falami radiowymi. Są rózne rodzaje tagów, więc to tez bywa różnie - są też aktywne.
+
+Działa na zasadzie indukcji magnetycznej, korzysta z pasma 13.56 MHz
+Max zasięg (zależy od standardu) to np. 20m
+Prędkości przesyłu max 0.8 Mbps
+
+![image](https://user-images.githubusercontent.com/12485656/68997726-c40e7b00-08a9-11ea-92f1-38f46f2f17a8.png)
+
+
 ## Push notification, strumieniowanie, Websockets
 Wysyłanie info z **serwera do klienta**
 Komunikacja zachodzi tylko wtedy gdy jest potrzeba wysłania czegoś. Oszczędza to energie i zasoby. Połączenie jest zestawiane raz (permanentnie) - żeby nie musiało być w kółko wznawiane. Przeznaczone raczej do krótkich informacji (np. powiadomień, chatu). 
