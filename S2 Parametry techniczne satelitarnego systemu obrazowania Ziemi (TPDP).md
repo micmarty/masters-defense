@@ -51,6 +51,31 @@ Spisane zakresy spektralne i długości fal: https://zasoby1.open.agh.edu.pl/dyd
 - kąt bryłowy obiektywu (zakrzywienie)
 - zakresy spektralne
 
+## Zastosowania satelitów
+W teledetekcji satelitarnej wykorzystuje sie najczesciej systemy detekcji róznych zakresów promieniowania, co dostarcza szereg istotnych informacji:
+- atmosfera
+	* rozklad temperatur,
+	* wiatry,
+	* typy chmur, ich ilosc i temperatura,
+	* ozon,
+	* budzet promieniowania Ziemi (m. in. efekt cieplarniany),
+	* sladowe ilosci gazów,
+- lad
+	* topografia ladu,
+	* wilgotnosc gleb,
+	* roslinnosc (m. in. vegetation index),
+	* temperatura powierzchni ladu,
+- oceany i morza
+	* kolor i biologia wód,
+	* topografia i prady wód,
+	* wiatry powierzchniowe wód,
+	* temperatura powierzchni,
+	* rozmiar i ksztalt fal,
+	* glebokosc wód,
+- lodowce
+	* pokrycie lodem wód i ladów,
+	* pokrycie sniegiem,
+
 ## Nakładanie (zdjęcia lotnicze)
 (sekcja skopiowana z https://pawelgorka.gitbooks.io/oprac-pytan-egza-politechnika-gdanska/pytania/pytania-kierunkowe/ksg/tpdp/tpdp-opracowanie.html)
 ![image](https://user-images.githubusercontent.com/12485656/68992974-9a862d00-0872-11ea-8652-391a97885c43.png)
