@@ -32,5 +32,6 @@ Przykładowo jeśli jesteśmy znajdujemy sie samochodem w jakiejś "komórce" di
 
 - QGIS
 - GeoTools 
+- GDAL - do operacji na danych rastrowych, konwersje, zmiany projekcji itd.
 - PostGIS - baza danych na Postgresie
 - OsmAnd - mapy mobilne, apka 
