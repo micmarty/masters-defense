@@ -1,4 +1,4 @@
-# K4 Produkty i zastosowania fotogrametrii cyfrowej
+# S4 Produkty i zastosowania fotogrametrii cyfrowej
 
 Dodatkowe źródło: http://home.agh.edu.pl/~zfiit/mat_dydaktyczne_pliki/JB_wyklady.pdf
 
