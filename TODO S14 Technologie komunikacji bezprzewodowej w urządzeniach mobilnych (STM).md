@@ -72,3 +72,12 @@ Mobilne architektury pusha:
 - Apple Push Notification Service (APN) - max 4 kB
 - Firebase Cloud Messaging (FCM)
 - Openmarket Push Notifications - jednolite API dla obu platform
+
+
+Beacons vs. NFC
+* Obie technologie wspierają płatności mobilne w sklepach. 
+* Beacons to małe bezprzewodowe czujniki, które komunikują się ze smartfnem za pomocą Bluetooth Low Energy (BLE), a NFC używa fali radiowych o krótkim zakresie, co pozwala na wymianę informacji pomiędzy dwoma urządzeniami w bliskiej odległości. 
+* iBeacons mają zakres 50 m, optymalny zakres dla NFC to 4cm. 
+* Beacons mogą wysyłać powiadomienia push, z informacją o ofertach, położeniu czy też ze spersonalizowanymi oferta na podstawie historii zakupów/preferencji klienta. W przypadku NFC to klient musi zainicjować interakcję z NFC.  
+* Nie wszystkie telefony posiadają NFC, za to większość posiada Bluetooth.  
+* NFC wspiera szyfrowanie, ponadto ryzyko shakowania jest niewielkie ze względu na niewielką odległość pomiędzy urządzeniami.
