@@ -50,3 +50,7 @@ Spisane zakresy spektralne i długości fal: https://zasoby1.open.agh.edu.pl/dyd
 - ogniskowa kamery
 - kąt bryłowy obiektywu (zakrzywienie)
 - zakresy spektralne
+
+## Nakładanie (zdjęcia lotnicze)
+![image](https://user-images.githubusercontent.com/12485656/68992974-9a862d00-0872-11ea-8652-391a97885c43.png)
+
