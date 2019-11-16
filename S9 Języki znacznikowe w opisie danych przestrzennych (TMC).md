@@ -1,3 +1,6 @@
+Współczesne systemy GIS są otwarte na integracje danych i współpracę z innymi systemami.
+Stało się to dzięki ustandaryzowaniu formatu wymiany danych przestrzennych m.in jako pliki GML, oraz wzroście konkurencyjności oprogramowania otwartoźródłowego.
+
 ## GML (Geography Markup Language)
 1. język znaczników bazujący na formacie XML
 2. wykorzystywany do modelowania danych przestrzennych w GIS
