@@ -3,7 +3,7 @@
 Generator: https://www.tablesgenerator.com/markdown_tables#
 
 
-# Modele danych
+# Modele danych w GIS
 | Cecha                               | Model wektorowy                                                                                       | Model rastrowy                                                                                 |
 |-------------------------------------|-------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | Rozmiar pliku                       | mały, zapisywane są tylko współrzędne, identyfikatory elementów wektorowych                           | duży, każy piksel jest zapisany w jako osobna wartość. Wyższa rozdzielczość = większy rozmiar. |
