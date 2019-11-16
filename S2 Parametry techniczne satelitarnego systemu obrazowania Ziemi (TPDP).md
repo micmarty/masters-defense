@@ -52,5 +52,13 @@ Spisane zakresy spektralne i długości fal: https://zasoby1.open.agh.edu.pl/dyd
 - zakresy spektralne
 
 ## Nakładanie (zdjęcia lotnicze)
+(sekcja skopiowana z https://pawelgorka.gitbooks.io/oprac-pytan-egza-politechnika-gdanska/pytania/pytania-kierunkowe/ksg/tpdp/tpdp-opracowanie.html)
 ![image](https://user-images.githubusercontent.com/12485656/68992974-9a862d00-0872-11ea-8652-391a97885c43.png)
 
+Warto jeszcze powiedziec slów kilka na temat ustalenia danych dla wykonania zdjec lotniczych. W tym celu nalezy podac nastepujace dane: 
+- granice obszaru zdjecia
+- typ kamery lotniczej (stala kamery)
+- skale oraz pokrycie podluzne i poprzeczne. 
+
+Nalezy pamietac, ze podajac skale zdjecia nalezy uwzglednic wplyw precyzji uzywanych do opracowania map przyrzadów.
+Jako przyklady satelitów obserwujacych Ziemie moga posluzyc chociazby najbardziej znane : Landsat, SPOT, ERS-1.
