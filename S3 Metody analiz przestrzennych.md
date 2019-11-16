@@ -37,11 +37,11 @@ Rys.
 
 Pozwala **oszacować wartość zmiennej w punktach w których nie dokonano pomiarów** w oparciu o wartości zaobserwowane w pobliskich miejscach. W zależności od tego jak daleko są punkty o znanych wartościach można niechcący wygładać teren, pomijając małe wypukłości pomiędzy.
 
-
+Patrz: https://pawelgorka.gitbooks.io/oprac-pytan-egza-politechnika-gdanska/pytania/pytania-kierunkowe/ksg/tpdp/tpdp-pytania.html
 - Poligony Thiessen'a
-- Kriging (nazwisko xD) - wykorzystuje metodę najmniejszych kwadratów
+- Kriging (nazwisko xD) - wykorzystuje metodę najmniejszych kwadratów, pozwala na okreslanie trendu zmian szacowanych wartości (?)
 - Inverse Distance weighting (IDW)
-- DENSITY (funkcja szacowania zagęszczenia)
+- DENSITY (funkcja szacowania zagęszczenia) 
 
 ### Modelowanie i symulacja
 Służą szacowaniu ryzyka (potencjalnych strat) np. powodzi, terenów zalewowych, potencjalne ogniska zanieczyszczen wody, dryfowanie plam ropy po oceanie.
