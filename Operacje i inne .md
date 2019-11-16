@@ -12,8 +12,10 @@ Przykładowo jeśli jesteśmy znajdujemy sie samochodem w jakiejś "komórce" di
 [benz](https://user-images.githubusercontent.com/12485656/68886364-62b6a280-0717-11ea-829f-9b02f44a6cf1.png)
 
 ## Na danych rastrowych
-- przycięcie wartości (range clipping, histogram range clipping)
-- zawężenie zakresu (ściśnięcie) [fot](https://user-images.githubusercontent.com/12485656/68886640-dfe21780-0717-11ea-9e7b-9e52648dd777.png)
+- przycięcie wartości (range clipping, histogram range clipping) - histogram
+- wyrównanie histogramu (odwracalne) - [fot](https://user-images.githubusercontent.com/12485656/68993244-103fc800-0876-11ea-9a67-ffc567640633.png)
+- liniowe rozszerzenie histogramu (odwracalne) - poprawa kontrastu: jeśli wartosic są 4-190 to rozciagamy na 0-255. 
+- zawężenie zakresu (ściśnięcie, odwracalne) - histogram [fot](https://user-images.githubusercontent.com/12485656/68886640-dfe21780-0717-11ea-9e7b-9e52648dd777.png)
 - różnego rodzaju filtracje:
   - dolnoprzepustowa - rozmywa, wygładza, wzmacnia te rejony obrazu (wartości pikseli/składowe), które mają małą częstotliwość zmian przestrzennych
   - górnoprzepustowa - wyostrza, uwydatnia szczegóły, jednocześnie zwiększa zaszumienie
