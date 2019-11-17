@@ -19,6 +19,8 @@ relacji pomiędzy gatunkami.
 # Metody szacowania filogenezy
 - *Metoda największej parsymonii*
 
+Najstarsza i najprostsza metoda.
+
 Najbardziej prawdopodobne jest takie zdarzenie ewolucyjne, które wymaga najmniejszej liczby zmian.
 Drzewo NIE jest obliczane, sprawdzane i porównywane są wszystkie (lub najbardziej obiecujące) drzewa. Szukamy wśród nich nich
 takiego, które wyjaśniało by zróżnicowanie badanych sekwencji jak najmniejszą liczbą mutacji - *najkrótsze drzewo*
@@ -41,3 +43,12 @@ najbardziej prawdopodobne jest uzyskanie obserwowanego rozkładu cech (nukleotyd
 Drzewo nie jest obliczane. Poszukujemy WIELU a nie jednego drzewa, które są najbardziej obiecujące, czyli mające dobry rozkład obserwowanych cech przy założonym modelu 
 substytucji ( parametry NIE SĄ określone).
 Finalnie, łączymy jakoś te wybrane drzewa w jedno.
+
+![image](https://user-images.githubusercontent.com/12485656/69012775-d1933600-0979-11ea-9d0f-a40975b1cc75.png)
+![image](https://user-images.githubusercontent.com/12485656/69012876-b37a0580-097a-11ea-9349-7d70a2293975.png)
+http://marcin_filipecki.users.sggw.pl/PDFY/BIOINF_WYKL/filogenetyka.pdf
+![image](https://user-images.githubusercontent.com/12485656/69013153-40be5980-097d-11ea-99e3-aadaa77a7d69.png)
+
+
+## Pojęcia
+Homoplazja - dwie niezależne mutacje doprowadziły do wyewoluowania tego samego genu (czyli w innych miesjcach drzewa)
