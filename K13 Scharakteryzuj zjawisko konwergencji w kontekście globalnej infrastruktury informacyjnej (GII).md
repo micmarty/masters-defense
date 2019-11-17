@@ -1,4 +1,4 @@
-# K14 Scharakteryzuj zjawisko konwergencji w kontekście globalnej infrastruktury informacyjnej (GII)
+# K13 Scharakteryzuj zjawisko konwergencji w kontekście globalnej infrastruktury informacyjnej (GII)
 Konwergencja to po prostu **adaptacja techniki jednego rodzaju do pełnienia innej funkcji** (charakterystycznej dla techniki innego rodzaju).
 
 W informatyce, czy telekomunikacji jest to szczególnie widoczne:
