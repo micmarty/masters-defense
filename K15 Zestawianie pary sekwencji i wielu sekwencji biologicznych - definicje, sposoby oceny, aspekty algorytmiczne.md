@@ -75,3 +75,6 @@ Służą do tego różnego rodzaju algorytmy, z tych które mieliśmy na wykład
 
 Jak kogoś interesuje jak działają to odsyłam do WIKI :D Tam są przykłady. 
 
+Algorytmy te bazują na programowaniu dynamicznym:
+![image](https://user-images.githubusercontent.com/12485656/69080065-8fcac400-0a3b-11ea-9ab8-5c0136c58636.png)
+
