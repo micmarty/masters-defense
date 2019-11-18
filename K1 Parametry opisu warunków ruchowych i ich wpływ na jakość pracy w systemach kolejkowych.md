@@ -49,3 +49,7 @@ Symbol L.
 Symbol D: LIFO, FIFO, SIRO (losowa kolejność), priorytetowa (których obsługa jest najkrótsza), round robin (nadawany jest czas w jakim złoszenie ma być obsłużone, jeśli nie zdążymy to ponownie trafia na koniec kolejki)
 
 Kiedy K lub L sa pominięte to zakłada się nieskończoność
+
+## Przykład
+![image](https://user-images.githubusercontent.com/12485656/69081146-ab36ce80-0a3d-11ea-9a8b-0328cd785bf8.png)
+
