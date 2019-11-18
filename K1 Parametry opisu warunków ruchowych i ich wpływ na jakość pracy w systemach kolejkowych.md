@@ -1,5 +1,4 @@
-# K1 Parametry opisu warunków ruchowych i ich wpływ na jakość pracy w systemach
-kolejkowych
+# K1 Parametry opisu warunków ruchowych i ich wpływ na jakość pracy w systemach kolejkowych (BO)
 
 http://www2.wt.pw.edu.pl/~akw/Wyklad_TMO.pdf
 Teoria kolejek (easy): http://aragorn.pb.bialystok.pl/~walenty/modelowanie/TeoriaKolejek.htm
