@@ -15,6 +15,10 @@ aby wytworzyć ten produkt konieczne było:
 - połączenie wielu ortozdjęć w mozaikę (złączenie części wspólnych na brzegach)
 - dodanie warstwy wektorowej z dodatkowymi informacjami, oznaczeniami np. dróg
 
+![image](https://user-images.githubusercontent.com/12485656/69093356-8e56c700-0a4e-11ea-8d00-f718f7596d18.png)
+
+http://www.igik.edu.pl/en/fotogrametria-opracowanie-metodyki-minimalizacji-bledow-przypadkowych-i-systematycznych-na-etapie-sporzadzania-ortofotomapy
+
 ### 2. NMPT/NMT - Numeryczny Model (Pokrycia) Terenu
 
 NMT modeluje profil terenu, ukształtowanie. Wykorzystywany do obliczania np. map spadków, objętości mas ziemnych, generowania izolinii
